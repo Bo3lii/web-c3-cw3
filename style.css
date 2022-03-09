@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&family=Mada:wght@300&display=swap');
+
+h1{
+    font-family: 'League Gothic', sans-serif;
+font-family: 'Mada', sans-serif;
+}
+.text-color{
+
+color: blue;
+background-color: antiquewhite;
+}
+
+#color{
+color: blueviolet;
+}
+
+p{
+
+    font-weight: 900;
+}
+
+.where{
+    text-align: center;
+}
